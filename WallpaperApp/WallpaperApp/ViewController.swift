@@ -10,13 +10,26 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    func viewDidLoad1() {
+        
+        //develop feat
+        //develop ture
+        // Do any additional setup after loading the view, typically from a nib.
+    }
+    func viewDidLoad2() {
+        
+        //develop feat
+        //develop ture
+        // Do any additional setup after loading the view, typically from a nib.
+    }
     override func viewDidLoad() {
         
         
         super.viewDidLoad()
         
         
-        //develop feature
+        //develop feat
+        //develop ture
         // Do any additional setup after loading the view, typically from a nib.
     }
 
