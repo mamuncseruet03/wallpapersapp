@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         //develop ture
         // Do any additional setup after loading the view, typically from a nib.
     }
-    func viewDidLoad6() {
+    func viewDidLoad18() {
         
         //develop feat
         //develop ture
@@ -28,13 +28,13 @@ class ViewController: UIViewController {
         //develop ture
         // Do any additional setup after loading the view, typically from a nib.
     }
-    func viewDidLoad8() {
+    func viewDidLoad10() {
         
         //develop feat
         //develop ture
         // Do any additional setup after loading the view, typically from a nib.
     }
-    func viewDidLoad2() {
+    func viewDidLoad23() {
         
         //develop feat
         //develop ture
