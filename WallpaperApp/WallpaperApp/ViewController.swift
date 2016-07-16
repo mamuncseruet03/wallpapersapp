@@ -16,6 +16,12 @@ class ViewController: UIViewController {
         //develop ture
         // Do any additional setup after loading the view, typically from a nib.
     }
+    func viewDidLoad2() {
+        
+        //develop feat
+        //develop ture
+        // Do any additional setup after loading the view, typically from a nib.
+    }
     override func viewDidLoad() {
         
         
