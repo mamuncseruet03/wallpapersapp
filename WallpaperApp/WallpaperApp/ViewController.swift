@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         
-        //develop feature
+        //develop ture
         // Do any additional setup after loading the view, typically from a nib.
     }
 
